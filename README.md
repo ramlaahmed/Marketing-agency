@@ -15,7 +15,8 @@ https://ramlaahmed.github.io/marketing-agency/
 
 ### Screenshots
 
-![code.png](./assets/images/code.png)
+- Image of vs code
+  ![code.png](./assets/images/code.png)
 
-![screencapture](./assets//images/screencapture-127-0-0-1-5500-index-html-2022-07-06-20_30_37.png)
-s
+- The final result
+  ![screencapture](./assets//images/screencapture-127-0-0-1-5500-index-html-2022-07-06-20_30_37.png)
